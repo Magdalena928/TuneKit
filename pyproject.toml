@@ -1,0 +1,5 @@
+[project]
+name = "tunekit"
+version = "0.1.0"
+description = "Upload your data → Get a fine-tuned SLM. Free."
+requires-python = ">=3.10"
